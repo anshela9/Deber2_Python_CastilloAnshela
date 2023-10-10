@@ -1,7 +1,4 @@
 
-
-<div class="cell code" execution_count="1">
-
 ``` python
 #Nombre : Anshela Melania Castillo Nicolalde 
 #Tarea: Dos
